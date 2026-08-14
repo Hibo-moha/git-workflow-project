@@ -45,6 +45,15 @@ git-workflow-project/
     └── workflows/
 
 
+## Contribution
+
+This project follows a feature-branch workflow. Changes should be developed on a separate branch, reviewed through a Pull Request, and merged into the `main` branch after review.
+
+## Automation
+
+GitHub Actions automatically checks the required project files whenever changes are pushed to `main` or a Pull Request targets `main`.
+
+
 ## Author
 
 Created as a Git & GitHub Bootcamp Final Project.

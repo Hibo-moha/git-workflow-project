@@ -23,7 +23,7 @@ The purpose of this project is to practice a professional Git and GitHub workflo
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Hibo-moha/git-workflow-project.git
 ```
 
 Open the project folder:
@@ -33,6 +33,17 @@ cd git-workflow-project
 ```
 
 This project mainly contains documentation and configuration files for demonstrating Git and GitHub workflows.
+
+
+## Project Structure
+
+```text
+git-workflow-project/
+├── README.md
+├── .gitignore
+└── .github/
+    └── workflows/
+
 
 ## Author
 

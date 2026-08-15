@@ -90,3 +90,12 @@ A basic Git workflow is:
 6. Open a Pull Request.
 7. Review the Pull Request.
 8. Merge the Pull Request into `main`.
+
+
+## Best Practices
+
+* Write clear and meaningful commit messages.
+* Use feature branches instead of making feature changes directly on `main`.
+* Pull the latest changes before starting new work.
+* Review changes through Pull Requests before merging.
+* Keep the `main` branch stable.
